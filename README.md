@@ -1,3 +1,5 @@
+Mateus Marques Batista mateus.batista01@fatec.sp.gov.br
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função buscarElemento
